@@ -33,10 +33,21 @@ Edad de la persona.</p>
  
  Cálculo de área de círculo mediante `Math.PI * radio * radio`.<br>
   
- Evaluación de edad para verificar si es mayor (`>= 18`) o menor de edad. </p>
+ Evaluación de edad para verificar si es mayor o menor de edad. </p>
 
 <h2>Datos de Salida:</h2>
 
 <p>Resultado del área del triángulo, del cuadrado y del círculo mostrados en consola con dos decimales.<br>
   
 Mensaje indicando si la persona es mayor o menor de edad según el valor ingresado.</p>
+
+<h2>Capturas:</h2>
+
+Escenario 1: Ejecución con persona mayor de edad:
+
+
+Escenario 2: Ejecución con persona menor de edad:
+
+
+Escenario 3: Otros valores de prueba en áreas:
+
