@@ -29,9 +29,9 @@ Edad de la persona.</p>
 
 <p>Cálculo de área de triángulo mediante la fórmula `(base * altura) / 2.0`.<br> 
   
- Cálculo de área de cuadrado mediante `lado * lado`.<br>
+ Cálculo de área de cuadrado mediante lado * lado.<br>
  
- Cálculo de área de círculo mediante `Math.PI * radio * radio`.<br>
+ Cálculo de área de círculo mediante Math.PI * radio * radio.<br>
   
  Evaluación de edad para verificar si es mayor o menor de edad. </p>
 
