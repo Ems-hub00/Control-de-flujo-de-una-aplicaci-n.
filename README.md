@@ -51,7 +51,12 @@ Escenario 2: Ejecución con persona menor de edad:
 
 <img width="654" height="216" alt="WhatsApp Image 2026-11-22 at 00 24 50" src="https://github.com/user-attachments/assets/0f2a135d-961a-4db6-acaa-ded3e496490e" />
 
-Escenario 3: Valores de prueba en áreas:
+Escenario 3: Area de Un triangulo
+<img width="294" height="118" alt="Area de un triangulo" src="https://github.com/user-attachments/assets/88e3c350-5f05-44f9-87f9-6ec97edb7f55" />
+
+Escenario 4: Area de un cuadrado
+<img width="268" height="106" alt="Area de un cuadrado" src="https://github.com/user-attachments/assets/ffa04a63-d9fd-4ce2-bd27-4a9f22cb3206" />
+
 
 
 
