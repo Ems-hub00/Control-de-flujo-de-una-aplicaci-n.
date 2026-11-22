@@ -45,11 +45,14 @@ Mensaje indicando si la persona es mayor o menor de edad según el valor ingresa
 
 Escenario 1: Ejecución con persona mayor de edad:
 
-<img width="992" height="439" alt="WhatsApp Image 2026-11-22 at 00 24 25" src="https://github.com/user-attachments/assets/0a0a0ee2-59b9-431e-8dd6-4f26bfec9dc0" />
+<img width="425" height="258" alt="WhatsApp Image 2026-11-22 at 00 29 43" src="https://github.com/user-attachments/assets/dffc3181-9165-4b09-8b23-ef0b3a43a601" />
 
 Escenario 2: Ejecución con persona menor de edad:
 
 <img width="654" height="216" alt="WhatsApp Image 2026-11-22 at 00 24 50" src="https://github.com/user-attachments/assets/0f2a135d-961a-4db6-acaa-ded3e496490e" />
 
 Escenario 3: Valores de prueba en áreas:
+
+
+
 
