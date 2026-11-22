@@ -49,5 +49,5 @@ Escenario 1: Ejecución con persona mayor de edad:
 Escenario 2: Ejecución con persona menor de edad:
 
 
-Escenario 3: Otros valores de prueba en áreas:
+Escenario 3: Valores de prueba en áreas:
 
