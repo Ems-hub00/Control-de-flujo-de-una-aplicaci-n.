@@ -17,13 +17,13 @@
 
 <h2>Datos de Entrada:</h2>
 
-<p>Base y altura del triángulo (números decimales, por ejemplo `8` y `5`).<br>
+<p>Base y altura del triángulo.<br>
   
-Lado del cuadrado (número decimal, por ejemplo `4`).<br>
+Lado del cuadrado.<br>
 
-Radio del círculo (número decimal, por ejemplo `3`).<br>
+Radio del círculo.<br>
 
-Edad de la persona (número entero, por ejemplo `21` o `16`).</p>  
+Edad de la persona.</p>  
 
 <h2>Datos que Procesa:</h2>
 
